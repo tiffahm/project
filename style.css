@@ -1,0 +1,44 @@
+a{
+    font-size:24px;
+    color:black;
+    padding:40px;
+    margin:20px 30px;
+    text-decoration-line: none;
+    text-align:center;
+
+}
+a:hover{
+    color:white;
+}
+header{
+    margin-top:0px 5px;
+    background-color:orange;
+    height:60px;
+    line-height:50px;
+}
+img{
+    position: relative;
+    left:460px;
+}
+.infos
+{
+    font-size:32px;
+    color:orange;
+    text-align:center;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.infos input{
+    width:300px;
+    height:30px;
+    border:1px solid black;
+    color:orange;
+    font-size: 20px;
+}
+.footer{
+    background-color: orange;
+    margin-top:300px;
+    height:50px;
+    font-size:25px;
+    line-height:70px;
+}
